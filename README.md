@@ -5,20 +5,6 @@ Este projeto Flutter é um aplicativo simples de Cadastro de Planetas, que permi
 Flutter: Framework para a criação da interface de usuário.
 Dart: Linguagem de programação.
 SQLite: Banco de dados local para persistência dos dados.
-## 📁 Estrutura do Projeto
-bash
-Copiar
-Editar
-.
-├── lib
-│   ├── modelos
-│   │   └── planeta.dart      # Modelo de dados para o planeta
-│   ├── controles
-│   │   └── controle_planeta.dart # Controle para gerenciar operações no banco de dados
-│   ├── telas
-│   │   └── tela_planeta.dart # Tela de cadastro/edição de planetas
-│   └── main.dart             # Arquivo principal do aplicativo
-└── README.md                 # Documentação do projeto
 ## 🚀 Funcionalidades
 Listagem de Planetas: Exibe uma lista com os planetas cadastrados.
 Adicionar Planeta: Permite cadastrar um novo planeta.
